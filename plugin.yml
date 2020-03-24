@@ -1,0 +1,11 @@
+name: GNBasics
+version: 1.0
+author: GamingNationDevTeam
+main: org.gamingnation.gnbasics.Main
+description: Plugin for basic commands, specialised for the Gaming Nation Server.
+
+commands:
+  gnrunning:
+   description: Command to check if GN Basics is running.
+  gfly:
+   description: Command to enable/disable flying for player.

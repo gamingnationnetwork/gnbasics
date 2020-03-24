@@ -2,7 +2,7 @@ name: GNBasics
 version: 1.0
 author: GamingNationDevTeam
 main: org.gamingnation.gnbasics.Main
-description: Plugin for basic commands, specialised for the Gaming Nation Server.
+description: Plugin for basic commands, specialised for the Gaming Nation Server. (Beta)
 
 commands:
   gnrunning:
